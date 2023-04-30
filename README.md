@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, you can call me Borges</h1>
-<h3 align="center">Software craftsmanship apprentice.</h3>
+<h3 align="center">Software craftsman</h3>
 
 - 🔭 I’m currently working on [Hotel Alura](https://github.com/RenatoBorgess/gerenciamentodehotel)
 
