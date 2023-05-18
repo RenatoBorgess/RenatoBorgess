@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, you can call me Borges</h1>
 <h3 align="center">Software craftsman</h3>
 
-- 🔭 I’m currently working on [Hotel Alura](https://github.com/RenatoBorgess/gerenciamentodehotel)
+- 🔭 I’m currently working on [Claim Management System](https://github.com/RenatoBorgess/cmsinsurance)
 
 - 🌱 I’m currently learning **Spring, Oracle OCI**
 
