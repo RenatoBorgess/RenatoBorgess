@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, you can call me Borges</h1>
-<h3 align="center">Software craftsman</h3>
+<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [Claim Management System](https://github.com/RenatoBorgess/cmsinsurance)
-
-- 🌱 I’m currently learning **Spring, Oracle OCI**
+- 🔭 I’m currently working on Tapcards
 
 - 👯 I’m looking to collaborate on **Spring Boot Projects**
 
